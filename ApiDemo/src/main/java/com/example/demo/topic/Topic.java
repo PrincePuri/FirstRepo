@@ -17,6 +17,7 @@ public class Topic {
 	
 	public Topic() {
 		super();
+System.out.println("hi");
 		// TODO Auto-generated constructor stub
 	}
 
@@ -43,5 +44,8 @@ public class Topic {
 	public void setDescription(String description) {
 		this.description = description;
 	}
+
+
+        
 
 }
